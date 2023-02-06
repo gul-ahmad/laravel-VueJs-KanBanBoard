@@ -34,13 +34,13 @@ Lot of things needed to be improved any suggestions are welcome.
 
 ## How to use
 
--Git clone
--composer install
--env settings for db
--php artisan key:generate
--php artisan migrate
--npm install
--npm run dev
+- Git clone
+- composer install
+- env settings for db
+- php artisan key:generate
+- php artisan migrate
+- npm install
+- npm run dev
 
 
 
